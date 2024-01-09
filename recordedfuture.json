@@ -1,7 +1,7 @@
 {
     "appid": "6efe0e1b-76ac-4ffd-8fa0-ac58fd6efd77",
     "name": "Recorded Future For Splunk SOAR",
-    "description": "This app implements investigative actions to perform lookups for quick reputation information, contextual threat intelligence and external threat alerts",
+    "description": "This app implements investigative actions to perform lookups for quick reputation information, contextual threat intelligence and external threat alerts. Access playbook templates created by Recorded Future automation experts to embed intelligence in your new and existing security workflows: https://support.recordedfuture.com/hc/en-us/articles/12294483605523-Splunk-SOAR-Template-Playbooks-Library",
     "publisher": "Recorded Future, Inc",
     "type": "reputation",
     "main_module": "recordedfuture_connector.py",
