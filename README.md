@@ -2,13 +2,13 @@
 # Recorded Future For Splunk SOAR
 
 Publisher: Recorded Future, Inc  
-Connector Version: 4.3.1  
+Connector Version: 4.3.2  
 Product Vendor: Recorded Future, Inc  
 Product Name: Recorded Future App for Phantom  
 Product Version Supported (regex): ".\*"  
 Minimum Product Version: 5.5.0  
 
-This app implements investigative actions to perform lookups for quick reputation information, contextual threat intelligence and external threat alerts
+This app implements investigative actions to perform lookups for quick reputation information, contextual threat intelligence and external threat alerts. Access playbook templates created by Recorded Future automation experts to embed intelligence in your new and existing security workflows: https://support.recordedfuture.com/hc/en-us/articles/12294483605523-Splunk-SOAR-Template-Playbooks-Library
 
 [comment]: # " File: README.md"
 [comment]: # ""
